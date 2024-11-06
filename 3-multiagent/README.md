@@ -14,5 +14,4 @@ In this project, students design agents for the classic version of Pacman, inclu
 - `autograder.py`	Project autograder
 - `testParser.py`	Parses autograder test and solution files
 - `testClasses.py`	General autograding test classes
-- `test_cases/`	Directory containing the test cases for each question
-- `multiagentTestClasses.py`	Project 3 specific autograding test classes
+- `test_cases`	Directory containing the test cases for each question
