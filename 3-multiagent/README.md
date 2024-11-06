@@ -11,7 +11,3 @@ In this project, students design agents for the classic version of Pacman, inclu
 - `ghostAgents.py`	Agents to control ghosts
 - `keyboardAgents.py`	Keyboard interfaces to control Pacman
 - `layout.py`	Code for reading layout files and storing their contents
-- `autograder.py`	Project autograder
-- `testParser.py`	Parses autograder test and solution files
-- `testClasses.py`	General autograding test classes
-- `test_cases`	Directory containing the test cases for each question
